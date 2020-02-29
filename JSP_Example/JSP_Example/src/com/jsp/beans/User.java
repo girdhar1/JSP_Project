@@ -13,6 +13,7 @@ public class User {
 	}
 	public void setId(int id) {
 		System.out.println("id");
+		System.out.println("Hello");
 		this.id = id;
 	}
 	public String getName() {
